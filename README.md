@@ -1,1 +1,1 @@
-Javascript pays my bills :)
+js pays my bills
